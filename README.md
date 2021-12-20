@@ -1,7 +1,7 @@
 <div align = "center">
   
 ### Hi there👋
-# I'm GeunJae Shin
+#### I'm GeunJae Shin
   
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
