@@ -7,9 +7,9 @@
 
 <br/><br/>
 
-  <div align=center><h3>📚 STACKS</h3></div>
+<div align=center><h3>📚 STACKS</h3></div>
 
-  <div align=center> 
+<div align=center> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -24,6 +24,4 @@
     <br>
   </div>
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:shin75492@gmail.com)
-
-</div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:shin75492@gmail.com)
