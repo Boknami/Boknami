@@ -29,4 +29,3 @@
   <h3>Contate me</h3>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shin75492@gmail.com)](mailto:shin75492@gmail.com)
 </div>
-
