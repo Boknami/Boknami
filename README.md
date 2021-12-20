@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=&height=150&section=header&text=&fontSize=10)
 
 <div align = "center">
-  ### Hi there👋
-  #### I'm GeunJae Shin
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
+### Hi there👋
+#### I'm GeunJae Shin
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
 
-  <br/><br/>
+<br/><br/>
 
   <div align=center><h3>📚 STACKS</h3></div>
 
