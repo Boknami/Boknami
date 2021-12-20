@@ -2,10 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
 
-
+<div align = "center">
   
-﹏﹏﹏﹏﹏﹏﹏
-
 <br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
@@ -30,5 +28,3 @@
 </div>
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
