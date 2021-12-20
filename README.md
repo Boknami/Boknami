@@ -27,7 +27,4 @@
 
 <br>
   
-<h3>Contact me</h3>
-<br>
 [!][Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:shin75492@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
