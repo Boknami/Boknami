@@ -6,7 +6,7 @@
 
 <br/><br/>
   
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
   
