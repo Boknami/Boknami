@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/c-FFCA28?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c-FFCA28?style=for-the-badge&logo=Create React App%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c++-4FC08D?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
@@ -26,7 +26,7 @@
   <br/><br/>
   
   ### Now Study!
-  <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/algorism-CA23AB?style=for-the-badge&logo=html5&logoColor=white">
   </br>
 </div>
