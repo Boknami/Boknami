@@ -4,7 +4,6 @@
 ### Hi there👋
 #### I'm GeunJae Shin
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)-->
-
 <br/><br/>
   
 <div align=center><h3>📚 STACKS</h3></div>
@@ -26,7 +25,7 @@
   
   ### 현재 공부 중
   <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white"> 
-  </br>
+  </br><br/><br/>
 </div>
   
 </div>
