@@ -3,7 +3,7 @@
   
 ### Hi there👋
 #### I'm GeunJae Shin
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boknami&layout=compact)](https://github.com/Boknami/github-readme-stats)
 
 <br/><br/>
   
