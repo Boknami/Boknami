@@ -24,9 +24,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   
-  <br>
-    <p>현재 관심 있는 분야 :
-  </br>
+  ## 현재 공부 중
+  <img src="https://img.shields.io/badge/react-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 </div>
 </div>
  
