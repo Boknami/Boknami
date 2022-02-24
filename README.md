@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   
-  ## 현재 공부 중
+  ### 현재 공부 중
   <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white"> 
   </br>
 </div>
