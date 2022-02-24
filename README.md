@@ -25,8 +25,9 @@
   
   <br/><br/>
   
-  ### 현재 공부 중
-  <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white"> 
+  ### Now Study!
+  <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/algorism-CA23AB?style=for-the-badge&logo=html5&logoColor=white">
   </br>
 </div>
   
