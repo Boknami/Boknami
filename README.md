@@ -25,7 +25,7 @@
   <br>
   
   ## 현재 공부 중
-  <img src="https://img.shields.io/badge/react-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=html5&logoColor=white"> 
 </div>
 </div>
  
