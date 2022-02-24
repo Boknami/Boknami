@@ -26,7 +26,7 @@
   <br/><br/>
   
   ### Now Study!
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/react-FCA231?style=for-the-badge&logo=Create React App&logoColor=white">
   </br>
 </div>
