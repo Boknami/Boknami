@@ -31,7 +31,7 @@
   </br>
   
   ### Now Attention
-  👨‍🏫 Teaching coding
+  👨‍🏫 Teaching Easy coding
 </div>
   
 </div>
