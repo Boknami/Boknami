@@ -29,6 +29,9 @@
   <img src="https://img.shields.io/badge/JavaScript-C9F200?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/react-BD90F4?style=for-the-badge&logo=Create React App&logoColor=white">
   </br>
+  
+  ### Now Attention
+  👨‍🏫 Teaching coding
 </div>
   
 </div>
