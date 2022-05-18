@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/react-BD90F4?style=for-the-badge&logo=Create React App&logoColor=white">
   </br>
   
-  ### Now Attention
-  👨‍🏫 Teaching Easy coding
+  ### <b>Now Attention</b>
+  👨‍🏫 Teaching Easy coding👨‍🏫
 </div>
   
 </div>
