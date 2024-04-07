@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm GeunJae Shin</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose and MVI**
+- 🌱 현재 학습 중  **Jetpack Compose and MVI**
 
-- 👨‍💻 All of my projects are available at [https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10](https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10)
+- 👨‍💻 진행한 프로젝트 [https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10](https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10)
 
-- 📝 I regularly write articles on [https://velog.io/@shin75492/posts](https://velog.io/@shin75492/posts)
+- 📝 블로그 [https://velog.io/@shin75492/posts](https://velog.io/@shin75492/posts)
 
-- 📫 How to reach me **shin75492@naver.com**
+- 📫 연락하기 **shin75492@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
