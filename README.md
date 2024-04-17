@@ -3,7 +3,7 @@
 
 - 🌱 현재 학습 중  **Jetpack Compose and MVI**
 
-- 👨‍💻 진행한 프로젝트 [https://zrr.kr/noV5]([https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10](https://zrr.kr/noV5))
+- 👨‍💻 진행한 프로젝트 [https://zrr.kr/noV5]([https://fancy-index-cb9.notion.site/Android-App-15ab3708c76c4fcda122202d8d115f10](https://zrr.kr/noV5)
 
 - 📝 블로그 [https://velog.io/@shin75492/posts](https://velog.io/@shin75492/posts)
 
